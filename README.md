@@ -9,4 +9,4 @@ The cultivate-ui team of course!
 # Installation 
 
 `npm install cultivate-ui`
-`yarn add cultivate-ui`
+

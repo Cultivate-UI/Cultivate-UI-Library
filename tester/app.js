@@ -1,3 +1,0 @@
-/** @format */
-
-require('cultivate-ui');
