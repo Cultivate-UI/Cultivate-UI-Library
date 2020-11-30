@@ -1,0 +1,21 @@
+{
+  "name": "cultivate-ui",
+  "version": "1.0.0",
+  "description": "This is a UI package made for you and me ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "UI",
+    "design",
+    "sass",
+    "css",
+    "buttons",
+    "nav",
+    "cards"
+  ],
+  "author": "Cultivate Team",
+  "license": "ISC"
+}
